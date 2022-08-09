@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+uvloop
+ujson
+cchardet
+aiodns
+aiohttp[speedups]
